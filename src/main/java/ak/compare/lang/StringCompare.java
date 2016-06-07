@@ -21,7 +21,7 @@
  * @author aksappy
  * @version 0.0.1
  */
-package ak.compare;
+package ak.compare.lang;
 
 import ak.compare.constants.CharConstants;
 
