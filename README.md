@@ -1,3 +1,3 @@
 # Compare
 
-Library for Comparing different types in Java
+Library for Comparing different types in Java. JDK8 Only.
